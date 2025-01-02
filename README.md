@@ -7,6 +7,7 @@ Below is the brief summary of algorithms we have implemented in different chapte
     - SBA with non-stationary environment dynamics
     - SBA with Optimistic Initial Values
     - SBA with Upper-Confidence Bound Action Selection  
+    - Gradient Bandit Algorithm (GBA) with and without Baseline
 
 Use the following commands to activate the virtual environments:
 - python -m pip install --no-cache-dir --upgrade pip
